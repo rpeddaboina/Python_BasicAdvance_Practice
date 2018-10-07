@@ -3,7 +3,8 @@
 username = "ramu"
 email    = "pramu822@gmail.com"
 
-pwd     =" hai";
+pwd     =" hai"
 
 print (username)
 
+print (email)
